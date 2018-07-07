@@ -6,3 +6,4 @@ Today I Learned
 
 ### RxSwift
 - [rx.deallocated extension](RxSwift/deallocated.md)
+- [Min value operator](RxSwift/min-value-observable.md)
